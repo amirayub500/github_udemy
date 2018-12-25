@@ -2,4 +2,6 @@ This is a first code file
 This is a second commit text
 Third row
 New Update
+
 Conflict for Master Branch
+
