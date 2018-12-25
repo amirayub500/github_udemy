@@ -2,3 +2,5 @@ This is a first code file
 This is a second commit text
 Third row
 New Update
+Another Change @ 1:00PM from Dev
+Conflict 
